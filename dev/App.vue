@@ -1,6 +1,6 @@
 <template>
   <div>
-    <link-prevue url="https://www.heroku.com"></link-prevue>
+    <link-prevue apiUrl="https://nextjs-go-peremontpeo.vercel.app/api/preview" url="https://www.theverge.com"></link-prevue>
   </div>
 </template>
 
